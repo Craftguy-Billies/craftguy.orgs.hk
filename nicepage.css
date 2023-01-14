@@ -39326,18 +39326,19 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 96px;
+    min-height: 95px;
   }
 
   .u-header .u-text-1 {
-    margin-top: 20px;
-    margin-right: 106px;
-    margin-left: 50px;
+    width: 184px;
+    margin-top: 14px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-header .u-image-1 {
-    margin-top: -73px;
-    margin-left: -34px;
+    margin-top: -67px;
+    margin-left: -24px;
   }
 
   .u-header .u-menu-1 {
